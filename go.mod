@@ -15,7 +15,7 @@ require (
 	github.com/dubbogo/gost v1.11.19
 	github.com/emirpasic/gods v1.12.0
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/goinggo/mapstructure v0.0.0-20140717182941-194205d9b4a9
